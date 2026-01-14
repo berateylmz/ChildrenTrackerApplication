@@ -35,4 +35,4 @@ An advanced IoT-based mobile application designed to ensure child safety using *
 4.  If the signal drops below the user-defined threshold (e.g., -90 dBm), the app triggers a **"CRITICAL ALERT"** notification to warn the parent.
 
 ---
-*Developed by [Senin Adın]*
+*Developed by [Berat Erdoğanyılmaz - Simge Baraç]*
